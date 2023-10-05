@@ -1,0 +1,61 @@
+td {
+    
+    background-color: white;
+    padding: 10px;
+    width: 1655px;
+
+       }
+   
+   form{
+   
+    position: sticky;
+    top: 0;
+    background-color: #0EB9B9;
+    text-align: center;
+    padding: 20px;
+    width: 100%;
+    
+    /* z-index: 1; */
+  }
+   button{
+    color: white;
+    background-color: black;
+    padding: 5px 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+   }
+   body{
+       background-color: white}
+   
+   header{
+       background-color: #0EB9B9;
+       
+       padding: 20px;
+       text-align: center;
+   } 
+   
+   
+          .operator {
+        text-align: right;
+          }
+    p{text-align: left;}
+  
+
+
+   
+      
+    
+                
+
+   
+   
+   
+   
+   
+   
+   
+   
+     
+   
+     
